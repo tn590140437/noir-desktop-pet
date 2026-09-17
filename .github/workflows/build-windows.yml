@@ -30,7 +30,7 @@ jobs:
       - name: Upload Noir.exe
         uses: actions/upload-artifact@v4
         with:
-          name: Noir-Windows-Portable
-          path: dist/Noir.exe
+          name: Noir-V004-Windows-Portable
+          path: dist/Noir_v004.exe
           if-no-files-found: error
           retention-days: 30
