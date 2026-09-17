@@ -1,0 +1,48 @@
+{
+  "idle": [
+    "assets/noir/idle/idle_01.png",
+    "assets/noir/idle/idle_02.png",
+    "assets/noir/idle/idle_03.png",
+    "assets/noir/idle/idle_04.png",
+    "assets/noir/idle/idle_05.png",
+    "assets/noir/idle/idle_06.png",
+    "assets/noir/idle/idle_07.png",
+    "assets/noir/idle/idle_08.png",
+    "assets/noir/idle/idle_09.png"
+  ],
+  "observe": [
+    "assets/noir/observe/observe_01.png",
+    "assets/noir/observe/observe_02.png",
+    "assets/noir/observe/observe_03.png",
+    "assets/noir/observe/observe_04.png",
+    "assets/noir/observe/observe_05.png"
+  ],
+  "walk": [
+    "assets/noir/walk/walk_01.png",
+    "assets/noir/walk/walk_02.png",
+    "assets/noir/walk/walk_03.png",
+    "assets/noir/walk/walk_04.png",
+    "assets/noir/walk/walk_05.png",
+    "assets/noir/walk/walk_06.png",
+    "assets/noir/walk/walk_07.png",
+    "assets/noir/walk/walk_08.png"
+  ],
+  "fly": [
+    "assets/noir/fly/fly_01.png",
+    "assets/noir/fly/fly_02.png",
+    "assets/noir/fly/fly_03.png",
+    "assets/noir/fly/fly_04.png",
+    "assets/noir/fly/fly_05.png",
+    "assets/noir/fly/fly_06.png",
+    "assets/noir/fly/fly_07.png",
+    "assets/noir/fly/fly_08.png"
+  ],
+  "sleep": [
+    "assets/noir/sleep/sleep_01.png",
+    "assets/noir/sleep/sleep_02.png",
+    "assets/noir/sleep/sleep_03.png",
+    "assets/noir/sleep/sleep_04.png",
+    "assets/noir/sleep/sleep_05.png",
+    "assets/noir/sleep/sleep_06.png"
+  ]
+}
